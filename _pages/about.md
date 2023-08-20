@@ -50,21 +50,23 @@ We conclude the conundrum or open it for the audience through a case-study of au
 <table>
 <tr>
 <td>Part 1: Choose your fairness metric</td>
-<td> <a href=" ">slides</a> </td> <td> <a href=" ">video</a> </td></tr>
+<td rowspan=4> <a href="https://drive.google.com/file/d/1iHVLj-4MZAwK_I4Uz0U1TrXeUTmRwXvW/view?usp=sharing">slides</a> </td> <td rowspan=4> <a href=" ">video</a> (to be updated soon) </td>
+</tr>
 <tr>
 <td>Part 2: Estimate your fairness metric</td>
-<td> <a href=" ">slides</a> </td> <td> <a href=" ">video</a> </td></tr>
+</tr>
 <tr>
 <td>Part 3: Attribute the fairness metric to features/input</td>
-<td> <a href=" ">slides</a> </td> <td> <a href=" ">video</a> </td></tr>
+</tr>
 <tr>
 <td>Part 4:  A case study and open problems</td>
-<td> <a href=" ">slides</a> </td> <td> <a href=" ">video</a> </td>
 </tr>
 </table>
 <div style="text-align:center;margin-bottom:.5cm;">
 </div>
-A summary of the above material is compiled as a note <a href=" ">here</a>.
+
+
+A summary of the demonstration is available <a href="code/auditing_fairness.html">here</a>.
 
 ## Speakers
 
