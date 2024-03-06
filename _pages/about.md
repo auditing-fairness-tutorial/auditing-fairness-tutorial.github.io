@@ -50,7 +50,7 @@ We conclude the conundrum or open it for the audience through a case-study of au
 <table>
 <tr>
 <td>Part 1: Choose your fairness metric</td>
-<td rowspan=4> <a href="https://drive.google.com/file/d/1iHVLj-4MZAwK_I4Uz0U1TrXeUTmRwXvW/view?usp=sharing">slides</a> </td> <td rowspan=4> <a href=" ">video</a> (to be updated soon) </td>
+<td rowspan=4> <a href="https://drive.google.com/file/d/1iHVLj-4MZAwK_I4Uz0U1TrXeUTmRwXvW/view?usp=sharing">slides</a> </td> <td rowspan=4> <a href="https://colab.research.google.com/drive/1mPwrzookGxhHG1SujXm8-fJWUsV0PpcW?usp=share_link">Code</a></td>
 </tr>
 <tr>
 <td>Part 2: Estimate your fairness metric</td>
